@@ -34,3 +34,10 @@ Soft Skills:
   Quick Learning and Adaptability
   Independence and Initiative
 
+Education and Certifications
+  Course “Front-End Self-Paced Online Program”
+  Course “Practical React” from SoftServe Academy
+  Course “Front End” form Freelancer for life
+
+
+
